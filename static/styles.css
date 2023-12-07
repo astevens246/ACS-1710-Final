@@ -25,3 +25,15 @@ input[type=text] {
 	border-radius: 0.5rem;
 	font-size: 1rem;
 }
+
+.Important {
+    color: red;
+}
+
+.Unimportant {
+    color: gray;
+}
+
+.Normal {
+    color: green;
+}
